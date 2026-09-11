@@ -1,0 +1,6 @@
+site_name: Panduan Sekolah Inklusi untuk Anak Berkebutuhan Khusus
+site_description: Panduan praktis memilih dan menyiapkan sekolah inklusi untuk anak berkebutuhan khusus, disusun untuk orang tua dan pendamping.
+theme:
+  name: readthedocs
+nav:
+  - Panduan: index.md
